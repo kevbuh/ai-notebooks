@@ -1,5 +1,8 @@
 # qlearn
 
+![Q-learning image](https://miro.medium.com/v2/resize:fit:1400/1*EQ-tDj-iMdsHlGKUR81Xgw.png)
+
+
 Messing around with a q-learning agent on a 9x9 board to find the optimal path.
 
 ### How to run
