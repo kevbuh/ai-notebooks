@@ -9,11 +9,11 @@
 
 <!-- Simply clone, install numpy, and run ```python qagent.py``` in the terminal -->
 
-A bunch of simple ML algorithms 
+A bunch of AI jupyter notebooks for fun
 
 Implemented:
-Hopfield Networks
-Q-learning
-Google Gemma Inference
+- Hopfield Networks
+- Q-learning
+- Google Gemma Inference
 
-If you'd like to request a notebook experiment, file an issue and I'll do it
+<!-- If you'd like to request a notebook experiment, file an issue and I'll do it -->
