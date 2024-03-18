@@ -1,6 +1,6 @@
 # ai-notebooks
 
-<!-- ![Q-learning image](https://miro.medium.com/v2/resize:fit:1400/1*EQ-tDj-iMdsHlGKUR81Xgw.png) -->
+![4096x4096 Hopfield Network](https://github.com/kevbuh/ai-notebooks/blob/main/assets/hopfield_viz.webp)
 
 
 <!-- Messing around with a q-learning agent on a 9x9 board to find the optimal path. -->
@@ -12,8 +12,11 @@
 A bunch of AI jupyter notebooks for fun
 
 Implemented:
+- Transformer
 - Hopfield Networks
 - Q-learning
 - Google Gemma Inference
+- Batch & Layer Normalization
+- MNIST MLP
 
-<!-- If you'd like to request a notebook experiment, file an issue and I'll do it -->
+If you'd like to request a notebook experiment, file an issue and I'll do it
